@@ -1,0 +1,11 @@
+{
+  "org": "vispy",
+  "repo": "vispy-neuro",
+  "versions": [
+    {
+      "commit": "b4d5a456f992f2c7eff8d7baf5931297a8767937",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:44:07.864995+00:00"
+    }
+  ]
+}
